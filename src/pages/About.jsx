@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
     return(
         <h1>
-            Чиназес
+            Сайт создан для освоения структуры React
         </h1>
     );
 };
